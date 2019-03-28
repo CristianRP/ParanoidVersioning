@@ -1,0 +1,5 @@
+# Control version for Rails App
+# major: Cambio mayor
+# minor: Cambios minimos
+# patch: Cambios criticos o parches 
+# build_date: Fecha de git colocar 'git-revdate' o dejar vacio ''
